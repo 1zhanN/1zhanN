@@ -22,10 +22,15 @@ Here are a few projects I've worked on:
 - Description: Designed and coded a smart city desktop app using Java(swing) for tourists and international students, it lets you sign in and explore the city and has two different views for user and administrator.
 - GitHub Repository: [Smart City App](https://github.com/1zhanN/Project_Smart_City)
 
-### 2. Poligon Editor / sprite animation 
+### 2. Poligon Editor / Sprite Animation / 3D City with Procedural Generation
 
 - Description: made using THREE.Js, these are logic oriented projects that displays how the power of gpu can be used to our advantage.
-- GitHub Repository: [Game Project](https://github.com/1zhanN/Computer-Graphics)
+- GitHub Repository: [Computer Graphics Projects](https://github.com/1zhanN/Computer-Graphics)
+
+### 3. MIO Programing Language 
+
+- Description: front-end Compiler developed on Java.
+- GitHub Repository: [Compiler Construction Project](https://github.com/umar-anzar/Front-End-Compiler-Project)
 
 
 Feel free to explore these projects and provide feedback or suggestions. I'm always looking for ways to improve and learn!
