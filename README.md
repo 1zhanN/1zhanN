@@ -1,13 +1,14 @@
 # Hello, I'm Izhan Nadeem! 👋
 
-I'm a final year student at UBIT, University of Karachi, and currently focusing on game development and web development. While I'm still in the learning phase, I've already gained valuable experience in these domains. In my free time, you'll often find me honing my skills in archery or diving into immersive world of video games. I believe in the power of technology to shape the future and create engaging experiences. I'm excited to connect with fellow developers and collaborate on exciting projects that push the boundaries of what's possible.
+I'm a final year student at UBIT, University of Karachi, with a background in game development and an exciting shift towards web development. While I initially started my journey in the immersive world of game/environment design, I've recently been captivated by the endless possibilities of web development. As I embark on this new path, I bring with me the creativity and problem-solving skills that I honed during my game desinging journey.
+
+In my free time, you'll often find me honing my skills in archery or diving into the immersive world of video games. I believe in the power of technology to shape the future and create engaging experiences, whether it's through captivating game worlds or beautifully designed websites.
 
 ## Skills
 
-- Game Development: Unity, Unreal Engine
+- Game/Environment Designing: Unity, Unreal Engine
 - Web Development: HTML, CSS, JavaScript, THREE.Js
 - Programming Languages: Java, Python
-
 
 ## GitHub Stats
 
@@ -19,22 +20,20 @@ Here are a few projects I've worked on:
 
 ### 1. Hamsafar
 
-- Description: Designed and coded a smart city desktop app using Java(swing) for tourists and international students, it lets you sign in and explore the city and has two different views for user and administrator.
+- Description: Designed and coded a smart city desktop app using Java (Swing) for tourists and international students. It lets you sign in and explore the city and has two different views for users and administrators.
 - GitHub Repository: [Smart City App](https://github.com/1zhanN/Project_Smart_City)
 
 ### 2. Poligon Editor / Sprite Animation / 3D City with Procedural Generation
 
-- Description: made using THREE.Js, these are logic oriented projects that displays how the power of gpu can be used to our advantage.
+- Description: Made using THREE.Js, these are logic-oriented projects that demonstrate how the power of GPU can be used to our advantage.
 - GitHub Repository: [Computer Graphics Projects](https://github.com/1zhanN/Computer-Graphics)
 
-### 3. MIO Programing Language 
+### 3. MIO Programming Language 
 
-- Description: front-end Compiler developed on Java.
+- Description: Front-end compiler developed in Java.
 - GitHub Repository: [Compiler Construction Project](https://github.com/umar-anzar/Front-End-Compiler-Project)
 
-
 Feel free to explore these projects and provide feedback or suggestions. I'm always looking for ways to improve and learn!
-
 
 ## Connect with Me
 
@@ -42,5 +41,5 @@ Feel free to explore these projects and provide feedback or suggestions. I'm alw
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCAOecHwCBjqbK98ETUBZ76w)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=google%20gmail&logoColor=white)](mailto:izhann000@gmail.com)
 
-
 Feel free to reach out to me for any collaborations, discussions, or just to say hi! 🌟
+
