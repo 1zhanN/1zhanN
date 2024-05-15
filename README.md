@@ -8,8 +8,8 @@ In my free time, you'll often find me diving into the immersive world of video g
 ## Skills
 
 - Game/Environment Designing: Unity, Unreal Engine
-- Web Development: HTML, CSS, JavaScript, THREE.Js, React, Bootstrap
-- Programming Languages: Java, Python
+- Web Development: HTML, CSS, JavaScript, THREEJs, ReactJs, NextJs, Bootstrap
+- Programming Languages: Java, Python, JavaScript
 
 ## GitHub Stats
 
