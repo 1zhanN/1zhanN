@@ -41,7 +41,8 @@ Feel free to explore these projects and provide feedback or suggestions. I'm alw
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izhan-nadeem)
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCAOecHwCBjqbK98ETUBZ76w)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=google%20gmail&logoColor=white)](mailto:izhann000@gmail.com)
-- [![My Website](https://1zhann.netlify.app/)
+- [![My Website](https://img.shields.io/badge/Website-D14836?style=for-the-badge&logo=google%20gmail&logoColor=white)](https://1zhann.netlify.app/)
+
 
 Feel free to reach out to me for any collaborations, discussions, or just to say hi! 🌟
 
