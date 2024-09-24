@@ -40,7 +40,7 @@ Feel free to explore these projects and provide feedback or suggestions. I'm alw
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izhan-nadeem)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=google%20gmail&logoColor=white)](mailto:izhann000@gmail.com)
-- [![My Website](https://img.shields.io/badge/Website-D14836?style=for-the-badge&logo=google%20gmail&logoColor=white)](https://vercel.com/1zhanns-projects/portfolio-website)
+- [![My Website](https://img.shields.io/badge/Website-D14836?style=for-the-badge&logo=google%20gmail&logoColor=white)](https://portfolio-website-ochre-alpha.vercel.app/)
 
 
 Feel free to reach out to me for any collaborations, discussions, or just to say hi! 🌟
