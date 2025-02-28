@@ -1,7 +1,7 @@
 # Hello, I'm Izhan Nadeem! 👋
 Junior Front-End Developer | Bachelor in Computer Science | Unreal Engine Generalist | Game/Environment Designer 
 # About me
-I'm a recent graduate from UBIT, University of Karachi, with a background in game development and an exciting shift towards web development. While I initially started my journey in the immersive world of game/environment design, I've recently been captivated by the endless possibilities of web development. As I embark on this new path, I bring with me the creativity and problem-solving skills that I honed during my game desinging journey.
+I'm a CS graduate from UBIT, University of Karachi, with a background in game development and an exciting shift towards web development. While I initially started my journey in the immersive world of game/environment design, I've recently been captivated by the endless possibilities of web development. As I embark on this new path, I bring with me the creativity and problem-solving skills that I honed during my game desinging journey.
 
 In my free time, you'll often find me diving into the immersive world of video games. I believe in the power of technology to shape the future and create engaging experiences, whether it's through captivating game worlds or beautifully designed websites.
 
