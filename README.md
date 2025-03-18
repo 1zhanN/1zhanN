@@ -16,15 +16,9 @@ In my free time, you'll often find me diving into the immersive world of video g
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=1zhanN&show_icons=true&theme=radical)
 
 ## Projects
-
 Here are a few projects I've worked on:
 
-### 1. Hamsafar
-
-- Description: Designed and coded a smart city desktop app using Java (Swing) for tourists and international students. It lets you sign in and explore the city and has two different views for users and administrators.
-- GitHub Repository: [Smart City App](https://github.com/1zhanN/Project_Smart_City)
-- 
-### 2. Welth - AI Finance Platform
+### 1. Welth - AI Finance Platform
 
  Developed a full-stack AI finance platform using React 19, Next.js 15, and
 Tailwind CSS. Integrated Supabase, Prisma, and Clerk Authentication for secure user management. Used Inngest for
@@ -32,19 +26,27 @@ cron jobs and task scheduling, such as monthly email reports. Implemented Arcjet
 to enhance security. Integrated Gemini AI to provide customized financial insights based on user expenditures,
 enabling data-driven decision-making.
 
+- Live: [Welth - Finance Platform](https://welth-peach.vercel.app/)
 - GitHub Repository: [Welth - Finance Platform](https://github.com/1zhanN/welth)
 
-### 3. Poligon Editor / Sprite Animation / 3D City with Procedural Generation
+### 2. Hamsafar
 
-- Description: Made using THREE.Js, these are logic-oriented projects that demonstrate how the power of GPU can be used to our advantage.
-- GitHub Repository: [Computer Graphics Projects](https://github.com/1zhanN/Computer-Graphics)
+- Description: Designed and coded a smart city desktop app using Java (Swing) for tourists and international students. It lets you sign in and explore the city and has two different views for users and administrators.
+- GitHub Repository: [Smart City App](https://github.com/1zhanN/Project_Smart_City)
+- 
 
-### 4. MIO Programming Language 
+### 3. MIO Programming Language 
 
 - Description: Front-end compiler developed in Java.
 - GitHub Repository: [Compiler Construction Project](https://github.com/umar-anzar/Front-End-Compiler-Project)
 
+### 4. Poligon Editor / Sprite Animation / 3D City with Procedural Generation
+
+- Description: Made using THREE.Js, these are logic-oriented projects that demonstrate how the power of GPU can be used to our advantage.
+- GitHub Repository: [Computer Graphics Projects](https://github.com/1zhanN/Computer-Graphics)
+- 
 Feel free to explore these projects and provide feedback or suggestions. I'm always looking for ways to improve and learn!
+
 
 ## Connect with Me
 
