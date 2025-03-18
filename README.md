@@ -1,15 +1,19 @@
 # Hello, I'm Izhan Nadeem! 👋
-Junior Front-End Developer | Bachelor in Computer Science | Unreal Engine Generalist | Game/Environment Designer 
+Junior Front-End Developer | Bachelor in Computer Science 
+
 # About me
 I'm a CS graduate from UBIT, University of Karachi, with a background in game development and an exciting shift towards web development. While I initially started my journey in the immersive world of game/environment design, I've recently been captivated by the endless possibilities of web development. As I embark on this new path, I bring with me the creativity and problem-solving skills that I honed during my game desinging journey.
-
 In my free time, you'll often find me diving into the immersive world of video games. I believe in the power of technology to shape the future and create engaging experiences, whether it's through captivating game worlds or beautifully designed websites.
 
 ## Skills
 
-- Game/Environment Designing: Unity, Unreal Engine
-- Web Development: HTML, CSS, JavaScript, THREEJs, ReactJs, NextJs, Bootstrap
 - Programming Languages: Java, Python, JavaScript
+- Frontend: React.js, Next.js, Tailwind CSS, Bootstrap, HTML5, CSS3, ShadCN UI
+- Backend: REST APIs, Supabase, Prisma
+- Web Technologies: Three.js (basics), RESTful APIs, Webpack
+- Version Control: Git, GitHub
+- UI/UX: Figma, Canva
+
 
 ## GitHub Stats
 
@@ -20,7 +24,7 @@ Here are a few projects I've worked on:
 
 ### 1. Welth - AI Finance Platform
 
- Developed a full-stack AI finance platform using React 19, Next.js 15, and
+Developed a full-stack AI finance platform using React 19, Next.js 15, and
 Tailwind CSS. Integrated Supabase, Prisma, and Clerk Authentication for secure user management. Used Inngest for
 cron jobs and task scheduling, such as monthly email reports. Implemented Arcjet for bot detection and rate limiting
 to enhance security. Integrated Gemini AI to provide customized financial insights based on user expenditures,
@@ -33,7 +37,7 @@ enabling data-driven decision-making.
 
 - Description: Designed and coded a smart city desktop app using Java (Swing) for tourists and international students. It lets you sign in and explore the city and has two different views for users and administrators.
 - GitHub Repository: [Smart City App](https://github.com/1zhanN/Project_Smart_City)
-- 
+  
 
 ### 3. MIO Programming Language 
 
@@ -44,7 +48,8 @@ enabling data-driven decision-making.
 
 - Description: Made using THREE.Js, these are logic-oriented projects that demonstrate how the power of GPU can be used to our advantage.
 - GitHub Repository: [Computer Graphics Projects](https://github.com/1zhanN/Computer-Graphics)
-- 
+
+  
 Feel free to explore these projects and provide feedback or suggestions. I'm always looking for ways to improve and learn!
 
 
